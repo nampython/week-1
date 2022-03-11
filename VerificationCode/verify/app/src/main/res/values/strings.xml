@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">verify</string>
+    <string name="title">Verification code</string>
+    <string name="coding">Please type the verification cod sent to ******@gmail.com!</string>
+    <string name="resend"><font color="#0B132B">I don\'t receive a code. </font><font color="#FF0707">Please resend!</font></string>
+
+</resources>
